@@ -1,0 +1,16 @@
+{
+  "data": [
+    [1, "Nick Young", "Lakers"],
+    [2, "Lou Williams", "Lakers"],
+    [13, "Lebron James", "Cavaliers"],
+    [4, "Kyrie Irving", "Cavaliers"],
+    [5, "Chris Paul", "Lakers"],
+    [6, "Blake Griffin", "Lakers"],
+    [20, "Kevin Durant", "Warriors"],
+    [17, "Stephen Curry", "Warriors"],
+    [9, "Dwight Howard", "Lakers"],
+    [10, "Kyle Korver", "Lakers"],
+    [11, "Kyle Lowry", "Cavaliers"],
+    [2, "DeMar DeRozan", "Cavaliers"]
+  ]
+}

@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+    "player_name": "Nick Young",
+    "team_name": "Lakers"
+  },
+  {
+    "id": 2,
+    "player_name": "Lou Williams",
+    "team_name": "Lakers"
+  },
+  {
+    "id": 13,
+    "player_name": "Lebron James",
+    "team_name": "Cavaliers"
+  },
+  {
+    "id": 4,
+    "player_name": "Kyrie Irving",
+    "team_name": "Cavaliers"
+  }]
